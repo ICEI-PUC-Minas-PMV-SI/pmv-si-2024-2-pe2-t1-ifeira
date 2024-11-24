@@ -1,35 +1,34 @@
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
 authors:
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6 
+  - family-names: Magalhães Silva
+    given-names: Amanda
+  - family-names: Laudares Alves Pimenta Silva
+    given-names: Anna Luiza 
+  - family-names: Parma Vitoria
+    given-names: Camille
+  - family-names: Perdigão Carneiro
+    given-names: Catharina
+  - family-names: Torres da Rocha Castro
+    given-names: Gustavo
+  - family-names: Gonçalves
+    given-names: Rita Laura
+
   - name-suffix: Professora
     affiliation: PUC Minas
     family-names: Alonso Veloso
     given-names: Eveline 
-  - name-suffix: Professora
-    affiliation: PUC Minas
-    family-names: Baroni De Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professora
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
+
 keywords:
-  - 
-  - 
-repository-code: 
+  - "Modelagem de Processos de Negócios"
+  - "Automação"
+  - "Gestão"
+message: |
+    "If you use this software, please cite it using these metadata.
+    Se você utilizar este software, por favor cite-o utilizando estes metadados."
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe2-t1-ifeira"
+title: "IFeira"
+abstract: |
+    " O projeto Ifeira...
+     "
+...
 license: CC-BY-4.0
 version: 1.0.0
-date-released:

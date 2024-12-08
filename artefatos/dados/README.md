@@ -6,9 +6,8 @@ Os principais documentos a serem produzidos são:
 
 
 * `diagrama entidade-relacionamento (DER)`
-	* Apresentar o DER em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+![image](https://github.com/user-attachments/assets/14d0c7cb-5829-437e-abc4-bf6d1c1e827d)
 
 * `modelo relacional`
-	* Apresentar o modelo relacional em imagem vetorial para evitar perda de qualidade com renderização em resolução específica.
+ *![ULTIMAVERSAODER drawio](https://github.com/user-attachments/assets/84166b1d-ba3d-4876-abad-22661bc5531a)
 
-Demais artefatos que julgar pertinentes.
